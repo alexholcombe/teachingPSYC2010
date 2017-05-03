@@ -1,8 +1,6 @@
----
-title: "Readings for Alex's PSYC2011 lectures and tutorials"
-date: "weeks of X Apr to X May, 2016. More material may be added to this document as the lectures proceed."
-output: html_document
----
+Readings for Alex's PSYC2010 lectures and tutorials
+
+Weeks of 8 May, 2017. More material may be added to this document as the lectures proceed.
 
 # Readings
 
