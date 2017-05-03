@@ -4,9 +4,9 @@ date: "weeks of X Apr to X May, 2016. More material may be added to this documen
 output: html_document
 ---
 
-## Readings
+# Readings
 
-### Evolution
+## Evolution
 
 Important
 
@@ -34,7 +34,7 @@ Recommended
 
 * [Synchronization of metronomes video](https://www.youtube.com/watch?v=Aaxw4zbULMs&list=PLEA000F355389E106)
 
-### Development of the brain
+## Development of the brain
 
 Recommended
 
@@ -42,7 +42,8 @@ Recommended
 
 * The Secret Life Of The Brain, [episode 1](https://www.youtube.com/watch?v=hDOmQS-t_qM)
 
-### Hearing
+<!-- This is from when David Alais was on sabbatical and I taught Hearing 
+## Hearing
 
 http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC2011
 The individual library pages for the chapters are:
@@ -51,6 +52,7 @@ The individual library pages for the chapters are:
 
 * [Chapter 11 (on hearing)](http://opac.library.usyd.edu.au:80/record=b5275978~S4) of *Perception*:  
 
+-->
 
 <!-- ## Vocabulary -->
 
