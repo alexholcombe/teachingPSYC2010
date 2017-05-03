@@ -1,6 +1,6 @@
 Readings for Alex's PSYC2010 lectures and tutorials
 
-Weeks of 8 May, 2017. More material may be added to this document as the lectures proceed.
+Week of 8 May, 2017. More material may be added to this document as the lectures proceed.
 
 # Readings
 
@@ -8,9 +8,9 @@ Weeks of 8 May, 2017. More material may be added to this document as the lecture
 
 Important
 
-* Read or skim Chapter 4 of Wickens 2009 *Introduction to Biopsychology*
+* Read or skim Chapter 4 of Wickens 2009 *Introduction to Biopsychology*, available at the [University PSYC2010 Elearning site]
 
-* pp.42-6, 66-69 of Bouton 2007 *Learning & Behavior*
+* pp.42-6, 66-69 of Bouton 2007 *Learning & Behavior* 
 
 * [“The Mental Life of Plants and Worms, Among Others”](http://www.nybooks.com/articles/archives/2014/apr/24/mental-life-plants-and-worms-among-others/) by Oliver Sacks 
 
@@ -18,7 +18,7 @@ Important
 
 Recommended
 
-* Chapter 1 of *Sapiens: A Brief History of Humankind* by Harari.
+* Chapter 1 of *Sapiens: A Brief History of Humankind* by Harari, available at the [University PSYC2010 Elearning site](https://elearning.sydney.edu.au/webapps/blackboard/content/contentWrapper.jsp?content_id=_4356743_1&displayName=Readings+for+PSYC2010+and+PSYC2910+lectures+and+tutorials&course_id=_65997_1&navItem=content&href=%2Fwebapps%2Fblackboard%2Fexecute%2Fblti%2FlaunchPlacement%3Fblti_placement_id%3D_97_1%26content_id%3D_4356743_1%26course_id%3D_65997_1)
 
 * [Khan Academy on natural selection](https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection/v/introduction-to-evolution-and-natural-selec)
 
