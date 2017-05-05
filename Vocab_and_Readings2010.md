@@ -1,3 +1,6 @@
+<!-- Jekyll adds a maladaptive header, probably confuses the students. It doesn't do anything for me besides
+automatically creating the html file remotely. So, could consider deleting the theme and just create the html files locally like I do for ATHK1001.
+-->
 Readings for Alex's PSYC2010 lectures (the week of 8 May, 2017). 
 
 More material may be added to this document as the lectures proceed.
@@ -52,5 +55,8 @@ The individual library pages for the chapters are:
 
 -->
 
-<!-- ## Vocabulary -->
+## Some vocabulary
+
+* vestigial
+* Evolutionary anachronism
 
