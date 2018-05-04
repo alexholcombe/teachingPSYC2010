@@ -1,7 +1,7 @@
 <!-- Jekyll adds a maladaptive header, probably confuses the students. It doesn't do anything for me besides
 automatically creating the html file remotely. So, could consider deleting the theme and just create the html files locally like I do for ATHK1001.
 -->
-Readings for Alex's PSYC2010 lectures (the week of 8 May, 2017). 
+Readings for Alex's PSYC2010 lectures (the week of 8 May, 2018). 
 
 More material may be added to this document as the lectures proceed.
 
@@ -57,6 +57,6 @@ The individual library pages for the chapters are:
 
 ## Some vocabulary
 
-* vestigial
-* Evolutionary anachronism
+* vestigial -  an anatomical feature that no longer seems to have a purpose in the current form of an organism of the given species. [link](https://www.thoughtco.com/about-vestigial-structures-1224771)
+* Evolutionary anachronism - attributes of living species that are best explained as a result of having been favorably selected in the past due to coevolution with other biological species that have since become extinct. [Wikipedia](https://en.wikipedia.org/wiki/Evolutionary_anachronism)
 
